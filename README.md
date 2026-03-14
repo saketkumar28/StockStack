@@ -1,6 +1,6 @@
 # 📈 StockStack
 
-A simple yet functional stock portfolio management application built with the MERN stack. Track your stock holdings, manage your watchlist, and keep tabs on your investments with CRUD operations.
+A simple yet functional Product Listing application built with the MERN stack. Track your List Of Items, manage your watchlist, and keep up with your daily requirements with CRUD operations.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
